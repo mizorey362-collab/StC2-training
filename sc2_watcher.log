@@ -1,0 +1,288 @@
+2026-03-13 22:56:01,217  INFO  ============================================================
+2026-03-13 22:56:01,218  INFO  SC2 → Obsidian Watcher  started
+2026-03-13 22:56:01,218  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-13 22:56:01,218  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-13 22:56:01,218  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-13 22:56:01,218  INFO  ============================================================
+2026-03-13 22:56:01,219  INFO  Found 14 existing replays — watching for new ones...
+2026-03-13 22:56:01,219  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-13 23:09:13,303  INFO  New replay detected: 10000 Feet LE (4).SC2Replay
+2026-03-13 23:09:21,304  INFO  Parsing: 10000 Feet LE (4).SC2Replay
+2026-03-13 23:09:21,351  INFO  Written to Practice Runs (vs AI): Drill 2026-03-13 vs AI Easy.md
+2026-03-13 23:09:23,378  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-13%20vs%20AI%20Easy.md
+2026-03-13 23:21:02,114  INFO  ============================================================
+2026-03-13 23:21:02,114  INFO  SC2 → Obsidian Watcher  started
+2026-03-13 23:21:02,114  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-13 23:21:02,114  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-13 23:21:02,114  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-13 23:21:02,115  INFO  ============================================================
+2026-03-13 23:21:02,115  INFO  Found 15 existing replays — watching for new ones...
+2026-03-13 23:21:02,115  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-13 23:21:23,443  INFO  New replay detected: 10000 Feet LE (5).SC2Replay
+2026-03-13 23:21:26,135  INFO  New replay detected: 10000 Feet LE (5).SC2Replay
+2026-03-13 23:21:31,444  INFO  Parsing: 10000 Feet LE (5).SC2Replay
+2026-03-13 23:21:31,480  INFO  Written to Practice Runs (vs AI): Drill 2026-03-13 vs AI Easy (2).md
+2026-03-13 23:21:33,506  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-13%20vs%20AI%20Easy%20%282%29.md
+2026-03-13 23:21:34,136  INFO  Parsing: 10000 Feet LE (5).SC2Replay
+2026-03-13 23:21:34,170  INFO  Written to Practice Runs (vs AI): Drill 2026-03-13 vs AI Easy (3).md
+2026-03-13 23:21:36,201  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-13%20vs%20AI%20Easy%20%283%29.md
+2026-03-14 13:11:28,109  INFO  ============================================================
+2026-03-14 13:11:28,109  INFO  SC2 → Obsidian Watcher  started
+2026-03-14 13:11:28,110  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-14 13:11:28,110  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-14 13:11:28,110  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-14 13:11:28,110  INFO  ============================================================
+2026-03-14 13:11:28,110  INFO  Found 15 existing replays — watching for new ones...
+2026-03-14 13:11:28,110  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-14 13:20:40,177  INFO  New replay detected: 10000 Feet LE (6).SC2Replay
+2026-03-14 13:20:48,178  INFO  Parsing: 10000 Feet LE (6).SC2Replay
+2026-03-14 13:20:48,285  INFO  Written to Practice Runs (vs AI): Drill 2026-03-14 vs AI Easy.md
+2026-03-14 13:20:50,310  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-14%20vs%20AI%20Easy.md
+2026-03-14 13:48:26,455  INFO  New replay detected: White Rabbit LE (2).SC2Replay
+2026-03-14 13:48:34,456  INFO  Parsing: White Rabbit LE (2).SC2Replay
+2026-03-14 13:48:34,483  INFO  Written to Ladder Games: Game 2026-03-14 ZvT.md
+2026-03-14 13:48:36,506  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%20ZvT.md
+2026-03-14 14:08:04,615  INFO  New replay detected: Taito Citadel LE (6).SC2Replay
+2026-03-14 14:08:12,616  INFO  Parsing: Taito Citadel LE (6).SC2Replay
+2026-03-14 14:08:12,638  INFO  Written to Ladder Games: Game 2026-03-14 ZvZ.md
+2026-03-14 14:08:14,662  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%20ZvZ.md
+2026-03-14 14:32:30,802  INFO  New replay detected: Ruby Rock LE (4).SC2Replay
+2026-03-14 14:32:38,803  INFO  Parsing: Ruby Rock LE (4).SC2Replay
+2026-03-14 14:32:38,832  INFO  Written to Ladder Games: Game 2026-03-14 ZvT (2).md
+2026-03-14 14:32:40,858  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%20ZvT%20%282%29.md
+2026-03-14 15:04:53,372  INFO  ============================================================
+2026-03-14 15:04:53,372  INFO  SC2 → Obsidian Watcher  started
+2026-03-14 15:04:53,372  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-14 15:04:53,372  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-14 15:04:53,372  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-14 15:04:53,372  INFO  ============================================================
+2026-03-14 15:04:53,373  INFO  Found 19 existing replays — watching for new ones...
+2026-03-14 15:04:53,373  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-14 15:05:33,389  INFO  New replay detected: Winter Madness LE (2).SC2Replay
+2026-03-14 15:05:41,390  INFO  Parsing: Winter Madness LE (2).SC2Replay
+2026-03-14 15:05:41,432  INFO  Written to Practice Runs (vs AI): Drill 2026-03-14 15-05 vs AI Easy.md
+2026-03-14 15:05:43,456  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-14%2015-05%20vs%20AI%20Easy.md
+2026-03-14 15:14:15,504  INFO  New replay detected: Ruby Rock LE (5).SC2Replay
+2026-03-14 15:14:23,505  INFO  Parsing: Ruby Rock LE (5).SC2Replay
+2026-03-14 15:14:23,518  INFO  Written to Ladder Games: Game 2026-03-14 15-14 ZvP.md
+2026-03-14 15:14:25,540  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2015-14%20ZvP.md
+2026-03-14 15:23:21,590  INFO  New replay detected: White Rabbit LE (3).SC2Replay
+2026-03-14 15:23:29,591  INFO  Parsing: White Rabbit LE (3).SC2Replay
+2026-03-14 15:23:29,607  INFO  Written to Ladder Games: Game 2026-03-14 15-23 ZvT.md
+2026-03-14 15:23:31,632  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2015-23%20ZvT.md
+2026-03-14 15:38:27,720  INFO  New replay detected: Winter Madness LE (3).SC2Replay
+2026-03-14 15:38:35,720  INFO  Parsing: Winter Madness LE (3).SC2Replay
+2026-03-14 15:38:35,745  INFO  Written to Ladder Games: Game 2026-03-14 15-38 ZvP.md
+2026-03-14 15:38:37,767  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2015-38%20ZvP.md
+2026-03-14 15:55:01,871  INFO  New replay detected: White Rabbit LE (4).SC2Replay
+2026-03-14 15:55:09,873  INFO  Parsing: White Rabbit LE (4).SC2Replay
+2026-03-14 15:55:09,899  INFO  Written to Ladder Games: Game 2026-03-14 15-54 ZvZ.md
+2026-03-14 15:55:11,928  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2015-54%20ZvZ.md
+2026-03-14 16:10:56,023  INFO  New replay detected: 10000 Feet LE (7).SC2Replay
+2026-03-14 16:11:04,024  INFO  Parsing: 10000 Feet LE (7).SC2Replay
+2026-03-14 16:11:04,045  INFO  Written to Ladder Games: Game 2026-03-14 16-10 TvZ.md
+2026-03-14 16:11:06,067  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2016-10%20TvZ.md
+2026-03-14 16:26:58,172  INFO  New replay detected: White Rabbit LE (5).SC2Replay
+2026-03-14 16:27:06,173  INFO  Parsing: White Rabbit LE (5).SC2Replay
+2026-03-14 16:27:06,192  INFO  Written to Ladder Games: Game 2026-03-14 16-26 ZvT.md
+2026-03-14 16:27:08,212  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-14%2016-26%20ZvT.md
+2026-03-15 13:51:19,693  INFO  ============================================================
+2026-03-15 13:51:19,694  INFO  SC2 → Obsidian Watcher  started
+2026-03-15 13:51:19,694  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-15 13:51:19,694  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-15 13:51:19,694  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-15 13:51:19,694  INFO  ============================================================
+2026-03-15 13:51:19,695  INFO  Found 28 existing replays — watching for new ones...
+2026-03-15 13:51:19,695  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-15 14:17:27,855  INFO  New replay detected: Ruby Rock LE (6).SC2Replay
+2026-03-15 14:17:35,856  INFO  Parsing: Ruby Rock LE (6).SC2Replay
+2026-03-15 14:17:35,903  INFO  Written to Ladder Games: Game 2026-03-15 14-17 ZvT.md
+2026-03-15 14:17:37,931  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-15%2014-17%20ZvT.md
+2026-03-15 14:37:06,088  INFO  New replay detected: White Rabbit LE (6).SC2Replay
+2026-03-15 14:37:14,089  INFO  Parsing: White Rabbit LE (6).SC2Replay
+2026-03-15 14:37:14,115  INFO  Written to Ladder Games: Game 2026-03-15 14-37 ZvT.md
+2026-03-15 14:37:16,141  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-15%2014-37%20ZvT.md
+2026-03-20 14:40:57,516  INFO  ============================================================
+2026-03-20 14:40:57,516  INFO  SC2 → Obsidian Watcher  started
+2026-03-20 14:40:57,517  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-20 14:40:57,517  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-20 14:40:57,517  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-20 14:40:57,517  INFO  ============================================================
+2026-03-20 14:40:57,517  INFO  Found 34 existing replays — watching for new ones...
+2026-03-20 14:40:57,518  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-20 14:58:49,646  INFO  New replay detected: 10000 Feet LE (8).SC2Replay
+2026-03-20 14:58:57,647  INFO  Parsing: 10000 Feet LE (8).SC2Replay
+2026-03-20 14:58:57,772  INFO  Written to Ladder Games: Game 2026-03-20 14-58 TvZ.md
+2026-03-20 14:58:59,798  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2014-58%20TvZ.md
+2026-03-20 15:40:52,486  INFO  ============================================================
+2026-03-20 15:40:52,486  INFO  SC2 → Obsidian Watcher  started
+2026-03-20 15:40:52,486  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-20 15:40:52,487  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-20 15:40:52,487  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-20 15:40:52,487  INFO  ============================================================
+2026-03-20 15:40:52,487  INFO  Found 35 existing replays — watching for new ones...
+2026-03-20 15:40:52,487  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-20 15:41:00,502  INFO  New replay detected: 10000 Feet LE (18).SC2Replay
+2026-03-20 15:41:08,502  INFO  Parsing: 10000 Feet LE (18).SC2Replay
+2026-03-20 15:41:08,565  INFO  Written to Ladder Games: Game 2026-03-20 14-58 ZvT.md
+2026-03-20 15:41:10,587  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2014-58%20ZvT.md
+2026-03-20 16:01:34,716  INFO  New replay detected: Winter Madness LE (6).SC2Replay
+2026-03-20 16:01:42,717  INFO  Parsing: Winter Madness LE (6).SC2Replay
+2026-03-20 16:01:42,747  INFO  Written to Ladder Games: Game 2026-03-20 16-01 ZvT.md
+2026-03-20 16:01:44,772  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-01%20ZvT.md
+2026-03-20 16:07:12,807  INFO  New replay detected: White Rabbit LE (8).SC2Replay
+2026-03-20 16:07:20,808  INFO  Parsing: White Rabbit LE (8).SC2Replay
+2026-03-20 16:07:20,822  INFO  Written to Ladder Games: Game 2026-03-20 16-07 ZvP.md
+2026-03-20 16:07:22,845  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-07%20ZvP.md
+2026-03-20 16:11:38,872  INFO  New replay detected: White Rabbit LE (9).SC2Replay
+2026-03-20 16:11:46,873  INFO  Parsing: White Rabbit LE (9).SC2Replay
+2026-03-20 16:11:46,882  INFO  Written to Practice Runs (vs AI): Drill 2026-03-20 16-11 vs AI Medium.md
+2026-03-20 16:11:48,903  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-20%2016-11%20vs%20AI%20Medium.md
+2026-03-20 16:19:48,956  INFO  New replay detected: Ruby Rock LE (7).SC2Replay
+2026-03-20 16:19:56,958  INFO  Parsing: Ruby Rock LE (7).SC2Replay
+2026-03-20 16:19:56,978  INFO  Written to Ladder Games: Game 2026-03-20 16-19 ZvT.md
+2026-03-20 16:19:59,009  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-19%20ZvT.md
+2026-03-20 16:26:31,051  INFO  New replay detected: Celestial Enclave LE (2).SC2Replay
+2026-03-20 16:26:39,052  INFO  Parsing: Celestial Enclave LE (2).SC2Replay
+2026-03-20 16:26:39,063  INFO  Written to Ladder Games: Game 2026-03-20 16-26 ZvT.md
+2026-03-20 16:26:41,085  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-26%20ZvT.md
+2026-03-20 16:28:33,098  INFO  New replay detected: Taito Citadel LE (9).SC2Replay
+2026-03-20 16:28:41,099  INFO  Parsing: Taito Citadel LE (9).SC2Replay
+2026-03-20 16:28:41,108  INFO  Written to Ladder Games: Game 2026-03-20 16-28 ZvT.md
+2026-03-20 16:28:43,132  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-28%20ZvT.md
+2026-03-20 16:43:15,223  INFO  New replay detected: Ruby Rock LE (8).SC2Replay
+2026-03-20 16:43:23,224  INFO  Parsing: Ruby Rock LE (8).SC2Replay
+2026-03-20 16:43:23,237  INFO  Written to Ladder Games: Game 2026-03-20 16-43 ZvZ.md
+2026-03-20 16:43:25,262  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2016-43%20ZvZ.md
+2026-03-20 16:56:37,354  INFO  New replay detected: 10000 Feet LE (19).SC2Replay
+2026-03-20 16:56:45,355  INFO  Parsing: 10000 Feet LE (19).SC2Replay
+2026-03-20 16:56:45,369  INFO  Written to Practice Runs (vs AI): Drill 2026-03-20 16-56 vs AI Easy.md
+2026-03-20 16:56:47,391  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-20%2016-56%20vs%20AI%20Easy.md
+2026-03-20 19:02:40,968  INFO  ============================================================
+2026-03-20 19:02:40,970  INFO  SC2 → Obsidian Watcher  started
+2026-03-20 19:02:40,970  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-20 19:02:40,970  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-20 19:02:40,970  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-20 19:02:40,970  INFO  ============================================================
+2026-03-20 19:02:40,971  INFO  Found 44 existing replays — watching for new ones...
+2026-03-20 19:02:40,971  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-20 19:14:41,085  INFO  New replay detected: 10000 Feet LE (21).SC2Replay
+2026-03-20 19:14:49,086  INFO  Parsing: 10000 Feet LE (21).SC2Replay
+2026-03-20 19:14:49,112  INFO  Written to Practice Runs (vs AI): Drill 2026-03-20 19-14 vs AI Medium.md
+2026-03-20 19:14:51,136  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-20%2019-14%20vs%20AI%20Medium.md
+2026-03-20 19:32:27,286  INFO  New replay detected: Tourmaline LE (2).SC2Replay
+2026-03-20 19:32:35,287  INFO  Parsing: Tourmaline LE (2).SC2Replay
+2026-03-20 19:32:35,322  INFO  Written to Ladder Games: Game 2026-03-20 19-32 ZvP.md
+2026-03-20 19:32:37,346  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2019-32%20ZvP.md
+2026-03-20 19:51:41,502  INFO  New replay detected: Celestial Enclave LE (3).SC2Replay
+2026-03-20 19:51:49,504  INFO  Parsing: Celestial Enclave LE (3).SC2Replay
+2026-03-20 19:51:49,542  INFO  Written to Ladder Games: Game 2026-03-20 19-51 ZvT.md
+2026-03-20 19:51:51,569  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-20%2019-51%20ZvT.md
+2026-03-21 13:07:33,688  INFO  ============================================================
+2026-03-21 13:07:33,688  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 13:07:33,688  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 13:07:33,688  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 13:07:33,688  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 13:07:33,688  INFO  ============================================================
+2026-03-21 13:07:33,689  INFO  Found 47 existing replays — watching for new ones...
+2026-03-21 13:07:33,689  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 13:07:40,031  INFO  ============================================================
+2026-03-21 13:07:40,031  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 13:07:40,031  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 13:07:40,031  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 13:07:40,031  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 13:07:40,032  INFO  ============================================================
+2026-03-21 13:07:40,032  INFO  Found 47 existing replays — watching for new ones...
+2026-03-21 13:07:40,033  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 13:19:56,128  INFO  New replay detected: 10000 Feet LE (22).SC2Replay
+2026-03-21 13:20:04,129  INFO  Parsing: 10000 Feet LE (22).SC2Replay
+2026-03-21 13:20:04,168  INFO  Written to Practice Runs (vs AI): Drill 2026-03-21 13-19 vs AI Easy.md
+2026-03-21 13:20:06,193  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-21%2013-19%20vs%20AI%20Easy.md
+2026-03-21 13:28:54,252  INFO  New replay detected: White Rabbit LE (10).SC2Replay
+2026-03-21 13:29:02,253  INFO  Parsing: White Rabbit LE (10).SC2Replay
+2026-03-21 13:29:02,267  INFO  Written to Ladder Games: Game 2026-03-21 13-28 ZvT.md
+2026-03-21 13:29:04,290  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2013-28%20ZvT.md
+2026-03-21 13:47:36,420  INFO  New replay detected: White Rabbit LE (11).SC2Replay
+2026-03-21 13:47:44,422  INFO  Parsing: White Rabbit LE (11).SC2Replay
+2026-03-21 13:47:44,456  INFO  Written to Ladder Games: Game 2026-03-21 13-47 ZvP.md
+2026-03-21 13:47:46,478  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2013-47%20ZvP.md
+2026-03-21 14:28:10,751  INFO  New replay detected: 10000 Feet LE (23).SC2Replay
+2026-03-21 14:28:18,753  INFO  Parsing: 10000 Feet LE (23).SC2Replay
+2026-03-21 14:28:18,801  INFO  Written to Ladder Games: Game 2026-03-21 14-28 ZvP.md
+2026-03-21 14:28:20,824  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2014-28%20ZvP.md
+2026-03-21 15:32:30,533  INFO  ============================================================
+2026-03-21 15:32:30,533  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 15:32:30,534  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 15:32:30,534  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 15:32:30,534  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 15:32:30,534  INFO  ============================================================
+2026-03-21 15:32:30,535  INFO  Found 51 existing replays — watching for new ones...
+2026-03-21 15:32:30,535  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 15:50:38,670  INFO  New replay detected: 10000 Feet LE (24).SC2Replay
+2026-03-21 15:50:46,672  INFO  Parsing: 10000 Feet LE (24).SC2Replay
+2026-03-21 15:50:46,714  INFO  Written to Ladder Games: Game 2026-03-21 15-50 ZvP.md
+2026-03-21 15:50:48,739  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2015-50%20ZvP.md
+2026-03-21 16:07:36,865  INFO  New replay detected: 10000 Feet LE (25).SC2Replay
+2026-03-21 16:07:44,866  INFO  Parsing: 10000 Feet LE (25).SC2Replay
+2026-03-21 16:07:44,883  INFO  Written to Practice Runs (vs AI): Drill 2026-03-21 16-07 vs AI Medium.md
+2026-03-21 16:07:46,906  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-21%2016-07%20vs%20AI%20Medium.md
+2026-03-21 16:48:11,189  INFO  New replay detected: Celestial Enclave LE (4).SC2Replay
+2026-03-21 16:48:19,190  INFO  Parsing: Celestial Enclave LE (4).SC2Replay
+2026-03-21 16:48:19,214  INFO  Written to Ladder Games: Game 2026-03-21 16-48 ZvT.md
+2026-03-21 16:48:21,239  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2016-48%20ZvT.md
+2026-03-21 19:05:35,428  INFO  ============================================================
+2026-03-21 19:05:35,429  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 19:05:35,429  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 19:05:35,429  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 19:05:35,429  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 19:05:35,429  INFO  ============================================================
+2026-03-21 19:05:35,430  INFO  Found 54 existing replays — watching for new ones...
+2026-03-21 19:05:35,430  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 19:19:19,552  INFO  New replay detected: 10000 Feet LE (26).SC2Replay
+2026-03-21 19:19:27,553  INFO  Parsing: 10000 Feet LE (26).SC2Replay
+2026-03-21 19:19:27,986  INFO  Written to Practice Runs (vs AI): Drill 2026-03-21 19-19 vs AI Easy.md
+2026-03-21 19:19:30,010  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-21%2019-19%20vs%20AI%20Easy.md
+2026-03-21 19:37:30,156  INFO  New replay detected: 10000 Feet LE (27).SC2Replay
+2026-03-21 19:37:38,157  INFO  Parsing: 10000 Feet LE (27).SC2Replay
+2026-03-21 19:37:39,579  INFO  Written to Ladder Games: Game 2026-03-21 19-37 ZvT.md
+2026-03-21 19:37:41,605  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2019-37%20ZvT.md
+2026-03-21 19:48:53,697  INFO  New replay detected: Winter Madness LE (7).SC2Replay
+2026-03-21 19:49:01,698  INFO  Parsing: Winter Madness LE (7).SC2Replay
+2026-03-21 19:49:01,953  INFO  Written to Practice Runs (vs AI): Drill 2026-03-21 19-48 vs AI Medium.md
+2026-03-21 19:49:03,974  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Practice%20Runs/Drill%202026-03-21%2019-48%20vs%20AI%20Medium.md
+2026-03-21 19:50:23,984  INFO  New replay detected: Tourmaline LE (3).SC2Replay
+2026-03-21 19:50:31,985  INFO  Parsing: Tourmaline LE (3).SC2Replay
+2026-03-21 19:50:32,005  INFO  Written to Ladder Games: Game 2026-03-21 19-50 ZvT.md
+2026-03-21 19:50:34,027  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2019-50%20ZvT.md
+2026-03-21 20:13:27,449  INFO  ============================================================
+2026-03-21 20:13:27,449  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 20:13:27,449  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 20:13:27,449  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 20:13:27,450  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 20:13:27,450  INFO  ============================================================
+2026-03-21 20:13:27,450  INFO  Found 58 existing replays — watching for new ones...
+2026-03-21 20:13:27,451  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 20:15:19,484  INFO  New replay detected: Winter Madness LE (8).SC2Replay
+2026-03-21 20:15:27,485  INFO  Parsing: Winter Madness LE (8).SC2Replay
+2026-03-21 20:15:27,540  INFO  Written to Ladder Games: Game 2026-03-21 20-15 ZvT.md
+2026-03-21 20:15:29,574  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2020-15%20ZvT.md
+2026-03-21 20:44:43,799  INFO  New replay detected: White Rabbit LE (12).SC2Replay
+2026-03-21 20:44:51,800  INFO  Parsing: White Rabbit LE (12).SC2Replay
+2026-03-21 20:44:53,814  INFO  Written to Ladder Games: Game 2026-03-21 20-44 ZvT.md
+2026-03-21 20:44:55,836  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2020-44%20ZvT.md
+2026-03-21 23:06:09,117  INFO  ============================================================
+2026-03-21 23:06:09,118  INFO  SC2 → Obsidian Watcher  started
+2026-03-21 23:06:09,118  INFO    Watching:      C:\Users\ema_m\OneDrive\Documents\StarCraft II\Accounts\406314395\2-S2-1-10900170\Replays\Multiplayer
+2026-03-21 23:06:09,118  INFO    Ladder Games:  C:\_workspace\starcraft\ZergBenchmarks\Ladder Games
+2026-03-21 23:06:09,118  INFO    Practice Runs: C:\_workspace\starcraft\ZergBenchmarks\Practice Runs
+2026-03-21 23:06:09,118  INFO  ============================================================
+2026-03-21 23:06:09,120  INFO  Found 60 existing replays — watching for new ones...
+2026-03-21 23:06:09,120  INFO  Coaching notes: disabled (set ANTHROPIC_API_KEY in config to enable)
+2026-03-21 23:18:17,242  INFO  New replay detected: Celestial Enclave LE (5).SC2Replay
+2026-03-21 23:18:25,244  INFO  Parsing: Celestial Enclave LE (5).SC2Replay
+2026-03-21 23:18:25,894  INFO  Written to Ladder Games: Game 2026-03-21 23-18 ZvZ.md
+2026-03-21 23:18:27,922  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2023-18%20ZvZ.md
+2026-03-21 23:42:12,115  INFO  New replay detected: 10000 Feet LE (28).SC2Replay
+2026-03-21 23:42:20,116  INFO  Parsing: 10000 Feet LE (28).SC2Replay
+2026-03-21 23:42:22,280  INFO  Written to Ladder Games: Game 2026-03-21 23-42 ZvT.md
+2026-03-21 23:42:24,303  INFO  Opening in Obsidian: obsidian://open?vault=ZergBenchmarks&file=Ladder%20Games/Game%202026-03-21%2023-42%20ZvT.md
